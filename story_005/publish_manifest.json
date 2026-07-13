@@ -1,9 +1,10 @@
 {
   "story_id": "story_005",
-  "published_at": "2026-07-04T13:27:21",
+  "profile_id": "english",
+  "asset_rel_path": "story_005",
+  "published_at": "2026-07-13T21:39:55",
   "source_dir": "D:\\CONTENT CREATING\\KI AUTOMATION PROJEKT\\_DELIVERABLES\\story_005",
   "files": [
-    "upload.mp4",
-    "thumbnail.jpg"
+    "upload.mp4"
   ]
 }
